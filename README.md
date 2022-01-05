@@ -17,4 +17,4 @@
 
 [version10] (https://leahgamble30.github.io/jessicahische/jessicahische)
 
-[Final] (https://leahgamble30.github.io/jessicahische/jessicahische)
+[final] (file:///Users/leahgamble/Documents/GitHub/jessicahische/jessicahische/jessicahische.html)
